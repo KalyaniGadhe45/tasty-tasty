@@ -1,6 +1,6 @@
 # 🍓 Fresh Fruits  Website
 
-## 📌 Description
+##  Description
 This is a simple multi-page website created using only HTML.  
 The website provides information about different fruits, their prices, and health benefits.
 
@@ -11,7 +11,7 @@ The website provides information about different fruits, their prices, and healt
 - Images added for better understanding
 - Beginner-friendly project
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML
 
 ## 📂 Project Structure
@@ -27,12 +27,6 @@ fruits-website/
     ├── grapes.jpg
     ├── mango.jpg
 
-## ▶️ How to Run the Project
-1. Download or clone the repository
-2. Open the project folder
-3. Double click on `index.html`
-4. The website will open in your browser
-
 ## 🌐 Pages Included
 - Home Page (index.html)
 - Fruits Page (fruits.html)
@@ -44,9 +38,10 @@ fruits-website/
 ![alt text](<second.png>)
 ![alt text](<third.png>)
 ![alt text](<fourth.png>)
+
 ## 🙋‍♀️ Author
 - Kalyani Gadhe
 
-## 📃 License
+##  License
 This project is free to use for learning purposes.
 
