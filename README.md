@@ -19,12 +19,12 @@ fruits-website/
 │
 ├── index.html
 ├── fruits.html
-├── benefits.html
+├── about.html
 ├── contact.html
 │
 └── images/
     ├── apple.jpg
-    ├── banana.jpg
+    ├── grapes.jpg
     ├── mango.jpg
 
 ## ▶️ How to Run the Project
